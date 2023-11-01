@@ -1,4 +1,4 @@
-package secao5.atividades;
+package secao5;
 
 public class ExpressaoCondicionalTernaria {
     public static void main(String[] args) {
